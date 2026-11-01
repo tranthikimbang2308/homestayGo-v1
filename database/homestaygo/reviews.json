@@ -1,0 +1,557 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d868"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d84c"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Căn nhà còn đẹp hơn trong ảnh, sạch sẽ và thơm tho. Chủ nhà nhiệt tình, chỉ cho chúng tôi nhiều quán ăn ngon. Nhất định sẽ quay lại.",
+    "ownerReply": "Cảm ơn bạn đã lựa chọn homestay của chúng mình. Rất mong được đón bạn quay lại vào dịp gần nhất!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1764334800000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764248400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1764248400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d869"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d84d"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Không gian yên tĩnh, view tuyệt vời. Buổi sáng thức dậy ngắm cảnh mà không muốn về. Cảm ơn anh chị chủ nhà rất nhiều!",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1766322000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1766322000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86a"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d846"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d84e"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "4"
+    },
+    "comment": "Phòng rộng rãi, đầy đủ tiện nghi. Chỉ hơi khó tìm đường vào buổi tối, nên có thêm biển chỉ dẫn. Nhìn chung rất hài lòng.",
+    "ownerReply": "Rất vui vì gia đình bạn đã có kỳ nghỉ trọn vẹn. Hẹn gặp lại cả nhà nhé!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1768222800000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1768136400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1768136400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86b"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83d"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d84f"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Gia đình mình 5 người ở rất thoải mái. Bếp đủ đồ nấu nướng, các bé thích nhất là khu vườn. Giá hợp lý so với chất lượng.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1770210000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1770210000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86c"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d849"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d850"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "4"
+    },
+    "comment": "Vị trí thuận tiện, đi bộ ra trung tâm rất gần. Wi-Fi mạnh, phù hợp làm việc từ xa. Nước nóng hơi yếu vào buổi tối.",
+    "ownerReply": "Xin lỗi bạn về sự bất tiện vừa qua, chúng mình đã lắp thêm vật liệu cách âm cho phòng. Mong bạn thông cảm.",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1772542800000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1772456400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1772456400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86d"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d851"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Trải nghiệm tuyệt vời nhất chuyến đi. Bữa sáng ngon, chủ nhà còn tặng thêm đặc sản khi chúng tôi trả phòng.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1774530000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774530000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86e"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d843"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d853"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "3"
+    },
+    "comment": "Phòng ổn nhưng cách âm chưa tốt, buổi tối hơi ồn. Bù lại nhân viên hỗ trợ nhanh và lịch sự.",
+    "ownerReply": "Chúng mình đã bổ sung thêm dụng cụ bếp theo góp ý của bạn. Cảm ơn bạn nhiều!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1776776400000"
+      }
+    },
+    "isHidden": true,
+    "hiddenReason": "Nội dung chứa thông tin cá nhân của chủ phòng, vi phạm tiêu chuẩn cộng đồng.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1776690000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623992"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hiddenAt": {
+      "$date": {
+        "$numberLong": "1792557423976"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d86f"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83f"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d854"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Hồ bơi sạch, nhà rộng, nhóm bạn mình 8 người tổ chức tiệc nướng rất vui. Sẽ giới thiệu cho bạn bè.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1778504400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1778504400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d870"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d84a"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d855"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "4"
+    },
+    "comment": "Nhà đẹp, decor xinh xắn, chụp ảnh rất ăn ảnh. Giường hơi cứng một chút nhưng không đáng kể.",
+    "ownerReply": "Cảm ơn bạn đã lựa chọn homestay của chúng mình. Rất mong được đón bạn quay lại vào dịp gần nhất!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1780405200000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1780318800000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1780318800000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d871"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d847"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d856"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Mọi thứ đều hoàn hảo từ khâu đặt phòng đến lúc trả phòng. Check-in nhanh gọn, phòng đúng như mô tả.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1782046800000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1782046800000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d872"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83e"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d858"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "4"
+    },
+    "comment": "View biển đẹp mê hồn, ban công rộng ngồi ngắm hoàng hôn rất chill. Đồ dùng trong bếp hơi ít.",
+    "ownerReply": "Rất vui vì gia đình bạn đã có kỳ nghỉ trọn vẹn. Hẹn gặp lại cả nhà nhé!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1784206800000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1784120400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1784120400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d873"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d848"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d859"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Lần thứ hai quay lại và vẫn rất ấn tượng. Chủ nhà nhớ cả sở thích uống trà của mình, quá chu đáo.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1785762000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1785762000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d874"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d85a"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "4"
+    },
+    "comment": "Không khí trong lành, rất hợp để nghỉ ngơi xa thành phố. Đường lên hơi dốc, nên đi xe số.",
+    "ownerReply": "Xin lỗi bạn về sự bất tiện vừa qua, chúng mình đã lắp thêm vật liệu cách âm cho phòng. Mong bạn thông cảm.",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1787576400000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1787490000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1787490000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d875"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d841"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d85c"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Sạch sẽ, gọn gàng, đầy đủ khăn tắm và đồ vệ sinh cá nhân. Giá cả xứng đáng từng đồng.",
+    "ownerReply": "",
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1789304400000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1789304400000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d876"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "booking": {
+      "$oid": "6adc35ef5fefd90b4072d85d"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "rating": {
+      "$numberInt": "5"
+    },
+    "comment": "Chủ nhà hỗ trợ đặt tour và thuê xe máy rất tiện. Phòng ấm áp, chăn đệm êm. Rất đáng để thử.",
+    "ownerReply": "Chúng mình đã bổ sung thêm dụng cụ bếp theo góp ý của bạn. Cảm ơn bạn nhiều!",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1790600400000"
+      }
+    },
+    "isHidden": false,
+    "hiddenReason": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1790514000000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1790514000000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

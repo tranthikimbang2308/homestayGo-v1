@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-sand font-sans text-ink antialiased;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif text-ink;
+    letter-spacing: -0.01em;
+  }
+  a {
+    @apply transition-colors;
+  }
+  :focus-visible {
+    outline: 2px solid #1F5F4A;
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-container px-4 sm:px-6 lg:px-8;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-60;
+  }
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-dark;
+  }
+  .btn-accent {
+    @apply bg-accent text-white hover:bg-accent-dark;
+  }
+  .btn-outline {
+    @apply border border-line bg-white text-ink hover:border-primary hover:text-primary;
+  }
+  .btn-ghost {
+    @apply text-ink hover:bg-sand-dark;
+  }
+  .btn-danger {
+    @apply bg-danger text-white hover:bg-red-800;
+  }
+  .btn-sm {
+    @apply px-3 py-1.5 text-xs;
+  }
+  .btn-lg {
+    @apply px-6 py-3 text-base;
+  }
+  .label {
+    @apply mb-1.5 block text-sm font-medium text-ink;
+  }
+  .input {
+    @apply w-full rounded-lg border border-line bg-white px-3.5 py-2.5 text-sm text-ink placeholder:text-muted/70 transition-colors focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/15 disabled:bg-sand;
+  }
+  .input-error {
+    @apply border-danger focus:border-danger focus:ring-danger/15;
+  }
+  .card {
+    @apply rounded-xl border border-line bg-white;
+  }
+  .card-shadow {
+    @apply shadow-soft;
+  }
+  .badge {
+    @apply inline-flex items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-0.5 text-xs font-medium;
+  }
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.12em] text-muted;
+  }
+  .section-title {
+    @apply font-serif text-2xl font-semibold text-ink sm:text-3xl;
+  }
+  .rule-dashed {
+    @apply border-t border-dashed border-line;
+  }
+}
+
+.leaflet-container {
+  font-family: 'Be Vietnam Pro', system-ui, sans-serif;
+  z-index: 0;
+}

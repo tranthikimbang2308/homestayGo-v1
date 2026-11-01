@@ -1,0 +1,418 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87a"
+    },
+    "code": "CHAOHE10",
+    "description": "Chào hè rực rỡ: giảm 10% tiền phòng, tối đa 300.000 ₫ cho mọi homestay trên HomestayGo.",
+    "discountType": "percent",
+    "discountValue": {
+      "$numberInt": "10"
+    },
+    "maxDiscount": {
+      "$numberInt": "300000"
+    },
+    "minOrderValue": {
+      "$numberInt": "0"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1791910800000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1800550800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "500"
+    },
+    "usedCount": {
+      "$numberInt": "2"
+    },
+    "owner": null,
+    "rooms": [],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623961"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623964"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87b"
+    },
+    "code": "HOMESTAYGO50K",
+    "description": "Giảm ngay 50.000 ₫ cho đơn đặt phòng có tiền phòng từ 500.000 ₫.",
+    "discountType": "fixed",
+    "discountValue": {
+      "$numberInt": "50000"
+    },
+    "maxDiscount": {
+      "$numberInt": "0"
+    },
+    "minOrderValue": {
+      "$numberInt": "500000"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1790182800000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1808326800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "0"
+    },
+    "usedCount": {
+      "$numberInt": "27"
+    },
+    "owner": null,
+    "rooms": [],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87c"
+    },
+    "code": "HETHAN30",
+    "description": "Ưu đãi tháng trước đã kết thúc.",
+    "discountType": "percent",
+    "discountValue": {
+      "$numberInt": "30"
+    },
+    "maxDiscount": {
+      "$numberInt": "500000"
+    },
+    "minOrderValue": {
+      "$numberInt": "0"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1787590800000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1792342800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "100"
+    },
+    "usedCount": {
+      "$numberInt": "64"
+    },
+    "owner": null,
+    "rooms": [],
+    "isActive": true,
+    "isPublic": false,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87d"
+    },
+    "code": "DALAT15",
+    "description": "Giảm 15% (tối đa 200.000 ₫) khi đặt nhà gỗ và bungalow của Sương Mai Đà Lạt.",
+    "discountType": "percent",
+    "discountValue": {
+      "$numberInt": "15"
+    },
+    "maxDiscount": {
+      "$numberInt": "200000"
+    },
+    "minOrderValue": {
+      "$numberInt": "0"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1792170000000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1797958800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "100"
+    },
+    "usedCount": {
+      "$numberInt": "8"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "rooms": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d83c"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d83d"
+      }
+    ],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87e"
+    },
+    "code": "CUOITUAN100K",
+    "description": "Giảm 100.000 ₫ cho đơn từ 1.000.000 ₫ tại mọi homestay của chủ nhà Nguyễn Minh Khôi.",
+    "discountType": "fixed",
+    "discountValue": {
+      "$numberInt": "100000"
+    },
+    "maxDiscount": {
+      "$numberInt": "0"
+    },
+    "minOrderValue": {
+      "$numberInt": "1000000"
+    },
+    "startDate": null,
+    "endDate": {
+      "$date": {
+        "$numberLong": "1796662800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "50"
+    },
+    "usedCount": {
+      "$numberInt": "12"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "rooms": [],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d87f"
+    },
+    "code": "HOIAN20",
+    "description": "Giảm 20% tối đa 400.000 ₫ cho kỳ nghỉ ở Hội An và Đà Nẵng, đơn từ 1.500.000 ₫.",
+    "discountType": "percent",
+    "discountValue": {
+      "$numberInt": "20"
+    },
+    "maxDiscount": {
+      "$numberInt": "400000"
+    },
+    "minOrderValue": {
+      "$numberInt": "1500000"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1792515600000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1795366800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "30"
+    },
+    "usedCount": {
+      "$numberInt": "4"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "rooms": [],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d880"
+    },
+    "code": "VIP200K",
+    "description": "Mã tri ân khách quen, giới hạn 5 lượt.",
+    "discountType": "fixed",
+    "discountValue": {
+      "$numberInt": "200000"
+    },
+    "maxDiscount": {
+      "$numberInt": "0"
+    },
+    "minOrderValue": {
+      "$numberInt": "1000000"
+    },
+    "startDate": null,
+    "endDate": {
+      "$date": {
+        "$numberLong": "1794502800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "5"
+    },
+    "usedCount": {
+      "$numberInt": "5"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "rooms": [],
+    "isActive": true,
+    "isPublic": false,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d881"
+    },
+    "code": "BIENXANH12",
+    "description": "Giảm 12% tối đa 600.000 ₫ cho biệt thự và nhà nghỉ dưỡng sát biển.",
+    "discountType": "percent",
+    "discountValue": {
+      "$numberInt": "12"
+    },
+    "maxDiscount": {
+      "$numberInt": "600000"
+    },
+    "minOrderValue": {
+      "$numberInt": "2000000"
+    },
+    "startDate": {
+      "$date": {
+        "$numberLong": "1792774800000"
+      }
+    },
+    "endDate": {
+      "$date": {
+        "$numberLong": "1799254800000"
+      }
+    },
+    "usageLimit": {
+      "$numberInt": "40"
+    },
+    "usedCount": {
+      "$numberInt": "2"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "rooms": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d848"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d849"
+      }
+    ],
+    "isActive": true,
+    "isPublic": true,
+    "__v": {
+      "$numberInt": "0"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623962"
+      }
+    }
+  }
+]

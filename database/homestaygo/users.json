@@ -1,0 +1,289 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d832"
+    },
+    "name": "Quản trị viên",
+    "email": "admin@homestaygo.vn",
+    "password": "$2b$10$pLTipeYB9dxArFJLAd81q.jtrjbsOC5sPMiukXsuWY54f5arbwHMm",
+    "phone": "0901000000",
+    "avatar": "https://i.pravatar.cc/150?img=68",
+    "role": "admin",
+    "isActive": true,
+    "favorites": [],
+    "bio": "Quản trị hệ thống HomestayGo.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1761021423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1761021423340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "name": "Nguyễn Minh Khôi",
+    "email": "owner1@homestaygo.vn",
+    "password": "$2b$10$JTrRMUixhbwOas3ZGoQdjebFBcyF51nq0rZTj1M78e8P8sNoAlx5.",
+    "phone": "0912345601",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "role": "owner",
+    "isActive": true,
+    "favorites": [],
+    "bio": "Dân Đà Lạt chính gốc, yêu cây cỏ và những buổi sáng sương mù. Tôi mở homestay để chia sẻ nhịp sống chậm của phố núi.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1761021423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1761021423340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "name": "Trần Thị Thu Hà",
+    "email": "owner2@homestaygo.vn",
+    "password": "$2b$10$u8sGFjSUo4mRbLMu58JTBejlgtdE4ojwI.UsYlR.IatcZesDY7gLG",
+    "phone": "0912345602",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "role": "owner",
+    "isActive": true,
+    "favorites": [],
+    "bio": "Sinh ra ở phố cổ Hội An, tôi muốn mỗi vị khách đều mang về một chút bình yên của miền Trung.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763699823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1763699823340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "name": "Lê Hoàng Phúc",
+    "email": "owner3@homestaygo.vn",
+    "password": "$2b$10$1aFITeBHBi99idCP38d8luYbHjl/GQ9vcKnYeuBdtm/Bwe1WDh1kK",
+    "phone": "0912345603",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "role": "owner",
+    "isActive": true,
+    "favorites": [],
+    "bio": "Mê biển, mê lặn ngắm san hô. Các căn nhà của tôi đều cách biển chỉ vài bước chân.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763699823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1763699823340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "name": "Phạm Quốc Bảo",
+    "email": "customer1@homestaygo.vn",
+    "password": "$2b$10$jhQEQN4Co7QFFCHQgKyOL.LfsY4rXj.fEpA6Fw6xoYxE9XfVRkYhO",
+    "phone": "0987654301",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d83c"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d844"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d848"
+      }
+    ],
+    "bio": "Thích du lịch bụi và khám phá ẩm thực địa phương.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1766291823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623953"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d837"
+    },
+    "name": "Võ Ngọc Anh",
+    "email": "customer2@homestaygo.vn",
+    "password": "$2b$10$.HfWcEAfGkeU3E91NmbYo.EN2CrPPBT7XZSmia5kXFEZCUQU4SkE6",
+    "phone": "0987654302",
+    "avatar": "https://i.pravatar.cc/150?img=45",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d83e"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d846"
+      }
+    ],
+    "bio": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1768970223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623954"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d838"
+    },
+    "name": "Đặng Thanh Tùng",
+    "email": "customer3@homestaygo.vn",
+    "password": "$2b$10$IOYc2SOglEJbpo8FIrPu1uvqCr9f5IHtygV1fUxukuJQ3krc/RJEC",
+    "phone": "0987654303",
+    "avatar": "https://i.pravatar.cc/150?img=53",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [],
+    "bio": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1774067823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1774067823340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d839"
+    },
+    "name": "Bùi Mai Linh",
+    "email": "customer4@homestaygo.vn",
+    "password": "$2b$10$MbRfKo5fRoQrl1kuI6WzbeRDvRMklhyukFPaQAeDpQ763cL1/nog2",
+    "phone": "0987654304",
+    "avatar": "https://i.pravatar.cc/150?img=44",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [],
+    "bio": "Nhiếp ảnh gia tự do.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1779338223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1779338223340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83a"
+    },
+    "name": "Hoàng Gia Huy",
+    "email": "customer5@homestaygo.vn",
+    "password": "$2b$10$ZoTpZ/H6xLRaVdjSGIQIU.3TpPOBh997uK0/XbGa.3Hgn20cE0v0q",
+    "phone": "0987654305",
+    "avatar": "https://i.pravatar.cc/150?img=59",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [],
+    "bio": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1784608623340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1784608623340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83b"
+    },
+    "name": "Ngô Phương Thảo",
+    "email": "customer6@homestaygo.vn",
+    "password": "$2b$10$akMA2sdw5g67exUdZnc4OeEq5yT7IK0ABEbiw/Ql4Kx/AfUuJeK5m",
+    "phone": "0987654306",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "role": "customer",
+    "isActive": true,
+    "favorites": [],
+    "bio": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1789965423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1789965423340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

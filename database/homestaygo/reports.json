@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8ad"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83f"
+    },
+    "reporter": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "reason": "sai_thong_tin",
+    "description": "Ảnh đăng có hồ bơi nhưng khi đến nơi hồ bơi đã ngừng hoạt động từ lâu.",
+    "status": "pending",
+    "adminNote": "",
+    "roomHidden": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792643823976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792643823976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8ae"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "reporter": {
+      "$oid": "6adc35ef5fefd90b4072d837"
+    },
+    "reason": "ve_sinh",
+    "description": "Phòng tắm có mùi ẩm mốc, khăn tắm chưa được thay khi nhận phòng.",
+    "status": "pending",
+    "adminNote": "",
+    "roomHidden": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792471023976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792471023976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8af"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d843"
+    },
+    "reporter": {
+      "$oid": "6adc35ef5fefd90b4072d838"
+    },
+    "reason": "thai_do",
+    "description": "Chủ phòng nói chuyện thiếu lịch sự khi tôi hỏi về giờ nhận phòng sớm.",
+    "status": "resolved",
+    "adminNote": "Đã liên hệ và nhắc nhở chủ phòng về thái độ phục vụ.",
+    "roomHidden": false,
+    "resolvedAt": {
+      "$date": {
+        "$numberLong": "1791866223976"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791779823976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1791779823976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8b0"
+    },
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83d"
+    },
+    "reporter": {
+      "$oid": "6adc35ef5fefd90b4072d839"
+    },
+    "reason": "lua_dao",
+    "description": "Nghi ngờ phòng không có thật vì giá quá rẻ so với khu vực.",
+    "status": "rejected",
+    "adminNote": "Đã xác minh phòng hoạt động bình thường, giá thấp do chương trình khuyến mãi của chủ phòng.",
+    "roomHidden": false,
+    "resolvedAt": {
+      "$date": {
+        "$numberLong": "1791175023976"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791088623976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1791088623976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

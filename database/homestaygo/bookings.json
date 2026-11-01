@@ -1,0 +1,2103 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84c"
+    },
+    "code": "HGTXM3TJCM",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1763830800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1764090000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "5"
+    },
+    "pricePerNight": {
+      "$numberInt": "1250000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "187500"
+    },
+    "subtotal": {
+      "$numberInt": "3750000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "4087500"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Mình sẽ đến khoảng 15h, nhờ chủ nhà hướng dẫn đường giúp.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1764129600000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763518500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1763518500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84d"
+    },
+    "code": "HGASMGN38X",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1765990800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1766163600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "3"
+    },
+    "pricePerNight": {
+      "$numberInt": "1400000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "140000"
+    },
+    "subtotal": {
+      "$numberInt": "2800000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3090000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Có trẻ nhỏ đi cùng, nhờ chuẩn bị thêm gối giúp mình.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1765596300000"
+      }
+    },
+    "vnpTxnRef": "HGASMGN38X100001",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1765595700000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1765595700000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84e"
+    },
+    "code": "HGYKM9DV18",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d846"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1767718800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1767978000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "1150000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "172500"
+    },
+    "subtotal": {
+      "$numberInt": "3450000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3722500"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1767241500000"
+      }
+    },
+    "vnpTxnRef": "HGYKM9DV18100002",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1767240900000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1767240900000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84f"
+    },
+    "code": "HGMB263WCQ",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83d"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1769878800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1770051600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "950000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "95000"
+    },
+    "subtotal": {
+      "$numberInt": "1900000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2095000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Cho mình xin thêm một bộ chăn mỏng nhé.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1770091200000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1769318100000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1769318100000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d850"
+    },
+    "code": "HGWX0LC6VC",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d849"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1772038800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1772298000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "9"
+    },
+    "pricePerNight": {
+      "$numberInt": "4200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "350000"
+    },
+    "serviceFee": {
+      "$numberInt": "630000"
+    },
+    "subtotal": {
+      "$numberInt": "12600000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "13580000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Kỷ niệm ngày cưới, mong được trang trí phòng đơn giản.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1771395900000"
+      }
+    },
+    "vnpTxnRef": "HGWX0LC6VC100004",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1771395300000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1771395300000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d851"
+    },
+    "code": "HG33UFZV1G",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1774198800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1774371600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "7"
+    },
+    "pricePerNight": {
+      "$numberInt": "3200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "300000"
+    },
+    "serviceFee": {
+      "$numberInt": "320000"
+    },
+    "subtotal": {
+      "$numberInt": "6400000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "7020000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1773473100000"
+      }
+    },
+    "vnpTxnRef": "HG33UFZV1G100005",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1773472500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1773472500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d852"
+    },
+    "code": "HGYZTYXQBH",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d848"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1775494800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1775667600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "6"
+    },
+    "pricePerNight": {
+      "$numberInt": "1300000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "130000"
+    },
+    "subtotal": {
+      "$numberInt": "2600000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2850000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Mình sẽ đến khoảng 15h, nhờ chủ nhà hướng dẫn đường giúp.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "refunded",
+    "status": "cancelled",
+    "cancelReason": "Gia đình có việc đột xuất nên không thể đi được.",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1775204700000"
+      }
+    },
+    "vnpTxnRef": "HGYZTYXQBH100006",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1775204100000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1775204100000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d853"
+    },
+    "code": "HGNAX2DVZ8",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d843"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1776358800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1776531600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "900000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "serviceFee": {
+      "$numberInt": "90000"
+    },
+    "subtotal": {
+      "$numberInt": "1800000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "1970000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Có trẻ nhỏ đi cùng, nhờ chuẩn bị thêm gối giúp mình.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1776571200000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1775985300000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1775985300000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d854"
+    },
+    "code": "HGC8PWZT1W",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83f"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1778086800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1778346000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "3"
+    },
+    "pricePerNight": {
+      "$numberInt": "800000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "serviceFee": {
+      "$numberInt": "120000"
+    },
+    "subtotal": {
+      "$numberInt": "2400000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2600000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1778385600000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1777630500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1777630500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d855"
+    },
+    "code": "HGKMR5ZEJN",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d84a"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1779814800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1780160400000"
+      }
+    },
+    "nights": {
+      "$numberInt": "4"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "1350000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "270000"
+    },
+    "subtotal": {
+      "$numberInt": "5400000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "5770000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Cho mình xin thêm một bộ chăn mỏng nhé.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1779276300000"
+      }
+    },
+    "vnpTxnRef": "HGKMR5ZEJN100009",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1779275700000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1779275700000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d856"
+    },
+    "code": "HGGTZR0SCF",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d847"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1781715600000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1781888400000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "1600000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "160000"
+    },
+    "subtotal": {
+      "$numberInt": "3200000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3480000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Kỷ niệm ngày cưới, mong được trang trí phòng đơn giản.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1781058300000"
+      }
+    },
+    "vnpTxnRef": "HGGTZR0SCF100010",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1781057700000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1781057700000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d857"
+    },
+    "code": "HGPRHP3QVE",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d841"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1782406800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1782579600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "1050000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "105000"
+    },
+    "subtotal": {
+      "$numberInt": "2100000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2325000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "rejected",
+    "cancelReason": "Phòng đang bảo trì hệ thống điện trong thời gian này, rất xin lỗi quý khách.",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1781666100000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1781666100000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d858"
+    },
+    "code": "HGYRVZ13VT",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83e"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1783702800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1783962000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "450000"
+    },
+    "cleaningFee": {
+      "$numberInt": "0"
+    },
+    "serviceFee": {
+      "$numberInt": "67500"
+    },
+    "subtotal": {
+      "$numberInt": "1350000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "1417500"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Mình sẽ đến khoảng 15h, nhờ chủ nhà hướng dẫn đường giúp.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1784001600000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1783397700000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1783397700000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d859"
+    },
+    "code": "HGR3T1AAXD",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d848"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1785430800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1785603600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "6"
+    },
+    "pricePerNight": {
+      "$numberInt": "1300000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "130000"
+    },
+    "subtotal": {
+      "$numberInt": "2600000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2850000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Có trẻ nhỏ đi cùng, nhờ chuẩn bị thêm gối giúp mình.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1785643200000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1785042900000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1785042900000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85a"
+    },
+    "code": "HGB4519MSU",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1787158800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1787331600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "1250000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "125000"
+    },
+    "subtotal": {
+      "$numberInt": "2500000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "2775000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1786688700000"
+      }
+    },
+    "vnpTxnRef": "HGB4519MSU100014",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1786688100000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1786688100000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85b"
+    },
+    "code": "HG8EP3MGHM",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1787590800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1787850000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "6"
+    },
+    "pricePerNight": {
+      "$numberInt": "3200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "300000"
+    },
+    "serviceFee": {
+      "$numberInt": "480000"
+    },
+    "subtotal": {
+      "$numberInt": "9600000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "10380000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Cho mình xin thêm một bộ chăn mỏng nhé.",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "cancelled",
+    "cancelReason": "Thay đổi lịch trình công tác.",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1787037300000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1787037300000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85c"
+    },
+    "code": "HG1EG9U323",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d841"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1788886800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1789146000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "1050000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "157500"
+    },
+    "subtotal": {
+      "$numberInt": "3150000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3427500"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Kỷ niệm ngày cưới, mong được trang trí phòng đơn giản.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1788251100000"
+      }
+    },
+    "vnpTxnRef": "HG1EG9U323100016",
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1788250500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1788250500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85d"
+    },
+    "code": "HG3ZG8EZQL",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1790182800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1790355600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "1400000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "140000"
+    },
+    "subtotal": {
+      "$numberInt": "2800000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3090000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1790395200000"
+      }
+    },
+    "isReviewed": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1789463700000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1789463700000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85e"
+    },
+    "code": "HG8GY1VK0X",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d846"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1791219600000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1791478800000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "3"
+    },
+    "pricePerNight": {
+      "$numberInt": "1150000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "172500"
+    },
+    "subtotal": {
+      "$numberInt": "3450000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3722500"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "Mình sẽ đến khoảng 15h, nhờ chủ nhà hướng dẫn đường giúp.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1790936700000"
+      }
+    },
+    "vnpTxnRef": "HG8GY1VK0X100018",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1790936100000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1790936100000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d85f"
+    },
+    "code": "HGPM3GRNRV",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d843"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d837"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1791910800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1792083600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "3"
+    },
+    "pricePerNight": {
+      "$numberInt": "900000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "serviceFee": {
+      "$numberInt": "90000"
+    },
+    "subtotal": {
+      "$numberInt": "1800000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "1970000"
+    },
+    "contactName": "Võ Ngọc Anh",
+    "contactPhone": "0987654302",
+    "note": "Có trẻ nhỏ đi cùng, nhờ chuẩn bị thêm gối giúp mình.",
+    "paymentMethod": "cash",
+    "paymentStatus": "paid",
+    "status": "completed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1792123200000"
+      }
+    },
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791544500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1791544500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d860"
+    },
+    "code": "HGBY054D3D",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d838"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1792688400000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1792947600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "1250000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "187500"
+    },
+    "subtotal": {
+      "$numberInt": "3750000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "4087500"
+    },
+    "contactName": "Đặng Thanh Tùng",
+    "contactPhone": "0987654303",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "checked_in",
+    "cancelReason": "",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792203300000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792203300000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d861"
+    },
+    "code": "HG81UUX99Y",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d846"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d839"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1792688400000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1792947600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "1150000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "172500"
+    },
+    "subtotal": {
+      "$numberInt": "3450000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "3722500"
+    },
+    "contactName": "Bùi Mai Linh",
+    "contactPhone": "0987654304",
+    "note": "Cho mình xin thêm một bộ chăn mỏng nhé.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "checked_in",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1792121100000"
+      }
+    },
+    "vnpTxnRef": "HG81UUX99Y100021",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792120500000"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792120500000"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d862"
+    },
+    "code": "HGS5F3Z0UZ",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d83a"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1793206800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1793466000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "4"
+    },
+    "pricePerNight": {
+      "$numberInt": "1400000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "serviceFee": {
+      "$numberInt": "210000"
+    },
+    "subtotal": {
+      "$numberInt": "4200000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "4560000"
+    },
+    "contactName": "Hoàng Gia Huy",
+    "contactPhone": "0987654305",
+    "note": "Kỷ niệm ngày cưới, mong được trang trí phòng đơn giản.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "paid",
+    "status": "confirmed",
+    "cancelReason": "",
+    "paidAt": {
+      "$date": {
+        "$numberLong": "1792644423340"
+      }
+    },
+    "vnpTxnRef": "HGS5F3Z0UZ100022",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792643823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792643823340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d863"
+    },
+    "code": "HGC0TPL5UB",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d849"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d83b"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1793811600000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1793984400000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "8"
+    },
+    "pricePerNight": {
+      "$numberInt": "4200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "350000"
+    },
+    "serviceFee": {
+      "$numberInt": "420000"
+    },
+    "subtotal": {
+      "$numberInt": "8400000"
+    },
+    "couponCode": "CHAOHE10",
+    "discount": {
+      "$numberInt": "300000"
+    },
+    "totalPrice": {
+      "$numberInt": "8870000"
+    },
+    "contactName": "Ngô Phương Thảo",
+    "contactPhone": "0987654306",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "confirmed",
+    "cancelReason": "",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792557423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623963"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d864"
+    },
+    "code": "HG3CUCZC5C",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83d"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d837"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1794502800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1794675600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "2"
+    },
+    "pricePerNight": {
+      "$numberInt": "950000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "serviceFee": {
+      "$numberInt": "95000"
+    },
+    "subtotal": {
+      "$numberInt": "1900000"
+    },
+    "couponCode": "CHAOHE10",
+    "discount": {
+      "$numberInt": "190000"
+    },
+    "totalPrice": {
+      "$numberInt": "1905000"
+    },
+    "contactName": "Võ Ngọc Anh",
+    "contactPhone": "0987654302",
+    "note": "Mình sẽ đến khoảng 15h, nhờ chủ nhà hướng dẫn đường giúp.",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "confirmed",
+    "cancelReason": "",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792730223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623963"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d865"
+    },
+    "code": "HGX9A5D0LT",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d83b"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1793379600000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1793552400000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "6"
+    },
+    "pricePerNight": {
+      "$numberInt": "3200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "300000"
+    },
+    "serviceFee": {
+      "$numberInt": "320000"
+    },
+    "subtotal": {
+      "$numberInt": "6400000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "7020000"
+    },
+    "contactName": "Ngô Phương Thảo",
+    "contactPhone": "0987654306",
+    "note": "Có trẻ nhỏ đi cùng, nhờ chuẩn bị thêm gối giúp mình.",
+    "paymentMethod": "vnpay",
+    "paymentStatus": "unpaid",
+    "status": "pending",
+    "cancelReason": "",
+    "vnpTxnRef": "HGX9A5D0LT100025",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792643823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792643823340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d866"
+    },
+    "code": "HGMLE2AV18",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83f"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1794070800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1794243600000"
+      }
+    },
+    "nights": {
+      "$numberInt": "2"
+    },
+    "guests": {
+      "$numberInt": "3"
+    },
+    "pricePerNight": {
+      "$numberInt": "800000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "serviceFee": {
+      "$numberInt": "80000"
+    },
+    "subtotal": {
+      "$numberInt": "1600000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "1760000"
+    },
+    "contactName": "Phạm Quốc Bảo",
+    "contactPhone": "0987654301",
+    "note": "",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "pending",
+    "cancelReason": "",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792557423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792557423340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d867"
+    },
+    "code": "HG8Q41C6WR",
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d848"
+    },
+    "customer": {
+      "$oid": "6adc35ef5fefd90b4072d83a"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "checkIn": {
+      "$date": {
+        "$numberLong": "1794934800000"
+      }
+    },
+    "checkOut": {
+      "$date": {
+        "$numberLong": "1795194000000"
+      }
+    },
+    "nights": {
+      "$numberInt": "3"
+    },
+    "guests": {
+      "$numberInt": "5"
+    },
+    "pricePerNight": {
+      "$numberInt": "1300000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "serviceFee": {
+      "$numberInt": "195000"
+    },
+    "subtotal": {
+      "$numberInt": "3900000"
+    },
+    "couponCode": "",
+    "discount": {
+      "$numberInt": "0"
+    },
+    "totalPrice": {
+      "$numberInt": "4215000"
+    },
+    "contactName": "Hoàng Gia Huy",
+    "contactPhone": "0987654305",
+    "note": "Cho mình xin thêm một bộ chăn mỏng nhé.",
+    "paymentMethod": "cash",
+    "paymentStatus": "unpaid",
+    "status": "pending",
+    "cancelReason": "",
+    "isReviewed": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792730223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792730223340"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

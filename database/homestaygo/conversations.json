@@ -1,0 +1,131 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d882"
+    },
+    "participants": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d836"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d833"
+      }
+    ],
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "lastMessage": "Em cảm ơn anh, em đặt luôn ạ.",
+    "lastMessageAt": {
+      "$date": {
+        "$numberLong": "1792773423966"
+      }
+    },
+    "unread": {
+      "6adc35ef5fefd90b4072d836": {
+        "$numberInt": "0"
+      },
+      "6adc35ef5fefd90b4072d833": {
+        "$numberInt": "1"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623965"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623967"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d889"
+    },
+    "participants": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d837"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d833"
+      }
+    ],
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "lastMessage": "Vậy em đặt 1 xe ga cho 2 ngày, nhận phòng hôm thứ Sáu nha chị.",
+    "lastMessageAt": {
+      "$date": {
+        "$numberLong": "1792793223969"
+      }
+    },
+    "unread": {
+      "6adc35ef5fefd90b4072d837": {
+        "$numberInt": "0"
+      },
+      "6adc35ef5fefd90b4072d833": {
+        "$numberInt": "1"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623969"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623970"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d88e"
+    },
+    "participants": [
+      {
+        "$oid": "6adc35ef5fefd90b4072d836"
+      },
+      {
+        "$oid": "6adc35ef5fefd90b4072d834"
+      }
+    ],
+    "room": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "lastMessage": "Có em, bữa sáng gồm cao lầu hoặc bánh mì Hội An, phục vụ từ 7h đến 9h30 nhé.",
+    "lastMessageAt": {
+      "$date": {
+        "$numberLong": "1792712943971"
+      }
+    },
+    "unread": {
+      "6adc35ef5fefd90b4072d836": {
+        "$numberInt": "1"
+      },
+      "6adc35ef5fefd90b4072d834": {
+        "$numberInt": "0"
+      }
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623971"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623972"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

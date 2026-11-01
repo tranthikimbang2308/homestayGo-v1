@@ -1,0 +1,314 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d888"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "type": "message",
+    "title": "Tin nhắn mới từ Phạm Quốc Bảo",
+    "message": "Em cảm ơn anh, em đặt luôn ạ.",
+    "link": "/owner/messages?c=6adc35ef5fefd90b4072d882",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792773423966"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792773423966"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d88d"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "type": "message",
+    "title": "Tin nhắn mới từ Võ Ngọc Anh",
+    "message": "Vậy em đặt 1 xe ga cho 2 ngày, nhận phòng hôm thứ Sáu nha chị.",
+    "link": "/owner/messages?c=6adc35ef5fefd90b4072d889",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792793223969"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792793223969"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d893"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "type": "message",
+    "title": "Tin nhắn mới từ Trần Thị Thu Hà",
+    "message": "Có em, bữa sáng gồm cao lầu hoặc bánh mì Hội An, phục vụ từ 7h đến 9h30 nhé.",
+    "link": "/account/messages?c=6adc35ef5fefd90b4072d88e",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792712943971"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792712943971"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d894"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "type": "booking_status",
+    "title": "Đơn đặt phòng đã được xác nhận",
+    "message": "Đơn HGTXM3TJCM đã được chủ phòng xác nhận. Chúc bạn có chuyến đi vui vẻ.",
+    "link": "/account/bookings/6adc35ef5fefd90b4072d84c",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792809423974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792809423974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d895"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "type": "promotion",
+    "title": "Ưu đãi mùa hè đã có mặt",
+    "message": "Nhập mã CHAOHE10 để được giảm 10% cho đơn đặt phòng, tối đa 300.000đ.",
+    "link": "/promotions",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792730223974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792730223974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d896"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "type": "review_reply",
+    "title": "Chủ phòng đã phản hồi đánh giá của bạn",
+    "message": "Cảm ơn bạn đã ghé thăm, hẹn gặp lại bạn vào mùa hoa dã quỳ nhé.",
+    "link": "/account/bookings",
+    "isRead": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792471023974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792471023974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d897"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d836"
+    },
+    "type": "system",
+    "title": "Chào mừng bạn đến với HomestayGo",
+    "message": "Khám phá hàng trăm homestay đẹp và đặt phòng chỉ trong vài bước.",
+    "link": "/rooms",
+    "isRead": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1790224623974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1790224623974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d898"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "type": "booking_new",
+    "title": "Có đơn đặt phòng mới",
+    "message": "Đơn HGTXM3TJCM vừa được tạo, vui lòng xác nhận sớm.",
+    "link": "/owner/bookings",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792805823974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792805823974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d899"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "type": "review_new",
+    "title": "Có đánh giá mới",
+    "message": "Một khách hàng vừa đánh giá 5 sao cho phòng của bạn.",
+    "link": "/owner/reviews",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792744623974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792744623974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d89a"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "type": "room_status",
+    "title": "Phòng đã được duyệt",
+    "message": "Phòng \"Sương Mai Đà Lạt - Nhà gỗ giữa đồi thông\" đã được duyệt và hiển thị công khai.",
+    "link": "/owner/rooms",
+    "isRead": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791952623974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1791952623974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d89b"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d832"
+    },
+    "type": "room_pending",
+    "title": "Có phòng mới chờ duyệt",
+    "message": "Hiện có 2 phòng đang chờ duyệt.",
+    "link": "/admin/rooms",
+    "isRead": false,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792798623974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792798623974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d89c"
+    },
+    "user": {
+      "$oid": "6adc35ef5fefd90b4072d832"
+    },
+    "type": "system",
+    "title": "Báo cáo tháng đã sẵn sàng",
+    "message": "Thống kê doanh thu và lượt đặt phòng tháng trước đã được cập nhật.",
+    "link": "/admin",
+    "isRead": true,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792557423974"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792557423974"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d89d"
+    },
+    "siteName": "HomestayGo",
+    "hotline": "1900 6868",
+    "email": "hotro@homestaygo.vn",
+    "address": "12 Nguyễn Văn Bảo, Gò Vấp, TP. Hồ Chí Minh",
+    "serviceFeePercent": {
+      "$numberInt": "5"
+    },
+    "about": "HomestayGo kết nối du khách với những homestay được chọn lọc trên khắp Việt Nam, giúp việc tìm chỗ ở gần gũi, minh bạch và an tâm hơn.",
+    "facebook": "https://facebook.com/homestaygo",
+    "zalo": "0901234567",
+    "policies": "Khách được hủy miễn phí trước ngày nhận phòng tối thiểu 3 ngày. Phí dịch vụ được tính trên tiền phòng và không hoàn lại khi hủy muộn. Chủ phòng chịu trách nhiệm về tính chính xác của thông tin đăng tải.",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792816623976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

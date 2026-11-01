@@ -1,0 +1,1608 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83c"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Sương Mai Đà Lạt - Nhà gỗ giữa đồi thông",
+    "description": "Căn nhà gỗ hai tầng nằm lọt thỏm giữa rừng thông, cách trung tâm Đà Lạt khoảng 10 phút chạy xe. Buổi sáng bạn có thể ngồi ở ban công nhâm nhi cà phê và ngắm sương mù trôi qua các tán thông. Phòng khách có lò sưởi và góc đọc sách ấm cúng, bếp đầy đủ dụng cụ để cả nhà tự nấu những bữa cơm thân mật. Sân vườn rộng phù hợp tổ chức tiệc nướng BBQ vào buổi tối.",
+    "roomType": "entire",
+    "address": "25 Đường Hoàng Hoa Thám",
+    "city": "Đà Lạt",
+    "district": "Phường 3",
+    "location": {
+      "lat": {
+        "$numberDouble": "11.9311"
+      },
+      "lng": {
+        "$numberDouble": "108.4436"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1250000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1500000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "6"
+    },
+    "bedrooms": {
+      "$numberInt": "3"
+    },
+    "beds": {
+      "$numberInt": "4"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "120"
+    },
+    "amenities": [
+      "wifi",
+      "kitchen",
+      "parking",
+      "garden",
+      "balcony",
+      "hot_water",
+      "bbq",
+      "mountain_view"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80"
+    ],
+    "rules": "Không hút thuốc trong nhà. Giữ yên lặng sau 22:00. Không tổ chức tiệc ồn ào. Vui lòng phân loại rác.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberDouble": "4.5"
+    },
+    "ratingCount": {
+      "$numberInt": "2"
+    },
+    "bookingCount": {
+      "$numberInt": "3"
+    },
+    "viewCount": {
+      "$numberInt": "900"
+    },
+    "blockedDates": [
+      {
+        "from": {
+          "$date": {
+            "$numberLong": "1795539600000"
+          }
+        },
+        "to": {
+          "$date": {
+            "$numberLong": "1795712400000"
+          }
+        },
+        "reason": "Bảo trì hệ thống nước nóng",
+        "_id": {
+          "$oid": "6adc35ef5fefd90b4072d877"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1761280623340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "suong-mai-da-lat-nha-go-giua-doi-thong-qcd8h3",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83d"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "The Pine Cabin - Bungalow view hồ Tuyền Lâm",
+    "description": "Bungalow gỗ nhỏ xinh dành riêng cho các cặp đôi, mặt hướng thẳng ra hồ Tuyền Lâm. Cửa kính lớn cho bạn thức dậy cùng ánh nắng sớm và mặt hồ phẳng lặng. Bữa sáng kiểu Việt được phục vụ tận phòng mỗi ngày. Buổi chiều có thể thuê xe đạp đi dạo quanh hồ hoặc chèo thuyền kayak.",
+    "roomType": "bungalow",
+    "address": "Khu du lịch hồ Tuyền Lâm",
+    "city": "Đà Lạt",
+    "district": "Phường 4",
+    "location": {
+      "lat": {
+        "$numberDouble": "11.898"
+      },
+      "lng": {
+        "$numberDouble": "108.432"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "950000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1190000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "2"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "1"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "35"
+    },
+    "amenities": [
+      "wifi",
+      "balcony",
+      "hot_water",
+      "breakfast",
+      "mountain_view",
+      "parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80"
+    ],
+    "rules": "Không mang thú cưng. Không hút thuốc trong phòng. Nhận phòng sau 14:00.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "2"
+    },
+    "viewCount": {
+      "$numberInt": "136"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1761539823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "the-pine-cabin-bungalow-view-ho-tuyen-lam-o3d700",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83e"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Mây Lang Thang Homestay - Phòng riêng trung tâm",
+    "description": "Phòng riêng nhỏ gọn ngay trung tâm thành phố, đi bộ 5 phút là tới chợ Đà Lạt và hồ Xuân Hương. Phòng được trang trí theo phong cách vintage với gam màu ấm, có ban công nhỏ nhìn ra phố. Chủ nhà thân thiện, sẵn sàng gợi ý các quán ăn ngon và cung đường săn mây đẹp nhất.",
+    "roomType": "private",
+    "address": "12 Đường Hai Bà Trưng",
+    "city": "Đà Lạt",
+    "district": "Phường 1",
+    "location": {
+      "lat": {
+        "$numberDouble": "11.9442"
+      },
+      "lng": {
+        "$numberDouble": "108.4358"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "450000"
+    },
+    "cleaningFee": {
+      "$numberInt": "0"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "2"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "1"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "22"
+    },
+    "amenities": [
+      "wifi",
+      "hot_water",
+      "tv",
+      "washer",
+      "balcony"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1200&q=80",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200&q=80",
+      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80"
+    ],
+    "rules": "Không nấu ăn trong phòng. Giữ yên lặng sau 22:30.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "4"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "1"
+    },
+    "viewCount": {
+      "$numberInt": "394"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1761799023340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "may-lang-thang-homestay-phong-rieng-trung-tam-k4qin4",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d83f"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Tả Van Eco Lodge - Nhà sàn giữa ruộng bậc thang",
+    "description": "Nhà sàn truyền thống của người Giáy được cải tạo tiện nghi, nằm giữa thung lũng Mường Hoa với những thửa ruộng bậc thang trải dài. Mùa lúa chín tháng 9 là thời điểm đẹp nhất để ngắm cả thung lũng nhuộm vàng. Chủ nhà có thể dẫn bạn trekking qua các bản làng và thưởng thức món thắng cố, cơm lam đặc sản.",
+    "roomType": "entire",
+    "address": "Thôn Tả Van Giáy",
+    "city": "Sa Pa",
+    "district": "Xã Tả Van",
+    "location": {
+      "lat": {
+        "$numberDouble": "22.308"
+      },
+      "lng": {
+        "$numberDouble": "103.883"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "800000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "4"
+    },
+    "bedrooms": {
+      "$numberInt": "2"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "60"
+    },
+    "amenities": [
+      "wifi",
+      "hot_water",
+      "breakfast",
+      "garden",
+      "mountain_view",
+      "balcony"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&q=80",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1200&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
+    ],
+    "rules": "Tôn trọng phong tục địa phương. Không xả rác ra suối. Không hút thuốc trong nhà sàn.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "2"
+    },
+    "viewCount": {
+      "$numberInt": "151"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1762058223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "ta-van-eco-lodge-nha-san-giua-ruong-bac-thang-0blcz3",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d840"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Cát Cát Hillside - Bungalow nhìn thung lũng",
+    "description": "Bungalow mới xây trên sườn đồi phía trên bản Cát Cát, sở hữu tầm nhìn bao quát thung lũng và dãy Hoàng Liên Sơn. Phòng có bồn tắm gỗ ngâm lá thuốc người Dao đỏ giúp thư giãn sau một ngày leo núi. Chỉ mất 10 phút đi bộ để xuống bản và thác Tiên Sa.",
+    "roomType": "bungalow",
+    "address": "Đường xuống bản Cát Cát",
+    "city": "Sa Pa",
+    "district": "Xã San Sả Hồ",
+    "location": {
+      "lat": {
+        "$numberDouble": "22.329"
+      },
+      "lng": {
+        "$numberDouble": "103.832"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1100000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "3"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "40"
+    },
+    "amenities": [
+      "wifi",
+      "hot_water",
+      "balcony",
+      "mountain_view",
+      "breakfast"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&q=80",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80",
+      "https://images.unsplash.com/photo-1564078516393-cf04bd966897?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80"
+    ],
+    "rules": "Không mang thú cưng. Không hát karaoke.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "pending",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "bookingCount": {
+      "$numberInt": "0"
+    },
+    "viewCount": {
+      "$numberInt": "2"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792471023340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "cat-cat-hillside-bungalow-nhin-thung-lung-stq779",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d841"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Phố Cổ Corner - Căn hộ ban công nhìn Hồ Gươm",
+    "description": "Căn hộ nhỏ nằm trên tầng 4 một ngôi nhà ống cổ giữa lòng phố cổ Hà Nội. Từ ban công bạn có thể ngắm phố xá tấp nập và một góc hồ Hoàn Kiếm. Xung quanh là vô số hàng bún chả, phở, cà phê trứng nổi tiếng. Nội thất được bài trí tinh tế, kết hợp nét Đông Dương và hiện đại.",
+    "roomType": "entire",
+    "address": "38 Hàng Bạc",
+    "city": "Hà Nội",
+    "district": "Hoàn Kiếm",
+    "location": {
+      "lat": {
+        "$numberDouble": "21.034"
+      },
+      "lng": {
+        "$numberDouble": "105.851"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1050000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "3"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "45"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "tv",
+      "washer",
+      "balcony",
+      "hot_water"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1200&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=1200&q=80",
+      "https://images.unsplash.com/photo-1559599101-f09722fb4948?w=1200&q=80"
+    ],
+    "rules": "Cầu thang bộ không có thang máy. Không hút thuốc. Giữ yên lặng sau 23:00.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "2"
+    },
+    "viewCount": {
+      "$numberInt": "188"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1762576623340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "pho-co-corner-can-ho-ban-cong-nhin-ho-guom-qu7g7w",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d842"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Hồ Tây Garden House",
+    "description": "Phòng riêng trong ngôi nhà vườn yên tĩnh gần hồ Tây.",
+    "roomType": "private",
+    "address": "15 ngõ 52 Tô Ngọc Vân",
+    "city": "Hà Nội",
+    "district": "Tây Hồ",
+    "location": {
+      "lat": {
+        "$numberDouble": "21.059"
+      },
+      "lng": {
+        "$numberDouble": "105.823"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "700000"
+    },
+    "cleaningFee": {
+      "$numberInt": "50000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "2"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "1"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "28"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "garden",
+      "hot_water"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1200&q=80",
+      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80"
+    ],
+    "rules": "Không hút thuốc.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "rejected",
+    "rejectReason": "Ảnh chưa đúng thực tế và mô tả quá ngắn, vui lòng bổ sung ảnh thật của phòng và thông tin chi tiết hơn.",
+    "ratingAvg": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "bookingCount": {
+      "$numberInt": "0"
+    },
+    "viewCount": {
+      "$numberInt": "12"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792298223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "ho-tay-garden-house-trnecx",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d843"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d833"
+    },
+    "title": "Tam Cốc Riverside - Nhà vườn bên núi đá vôi",
+    "description": "Ngôi nhà vườn mái ngói đỏ nằm bên dòng sông Ngô Đồng, bao quanh là những dãy núi đá vôi hùng vĩ của Tam Cốc. Buổi sáng có thể đạp xe qua những cánh đồng lúa tới Hang Múa, chiều về ngồi hiên nhà ngắm hoàng hôn. Chủ nhà phục vụ bữa sáng với bánh đa cá rô và cơm cháy đặc sản Ninh Bình.",
+    "roomType": "entire",
+    "address": "Thôn Văn Lâm, xã Ninh Hải",
+    "city": "Ninh Bình",
+    "district": "Hoa Lư",
+    "location": {
+      "lat": {
+        "$numberDouble": "20.215"
+      },
+      "lng": {
+        "$numberDouble": "105.937"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "900000"
+    },
+    "cleaningFee": {
+      "$numberInt": "80000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1030000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "5"
+    },
+    "bedrooms": {
+      "$numberInt": "2"
+    },
+    "beds": {
+      "$numberInt": "3"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "80"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "garden",
+      "parking",
+      "bbq",
+      "mountain_view",
+      "breakfast",
+      "pet"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=1200&q=80",
+      "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200&q=80",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1200&q=80",
+      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80"
+    ],
+    "rules": "Cho phép thú cưng nhỏ. Không xả rác xuống sông.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "bookingCount": {
+      "$numberInt": "2"
+    },
+    "viewCount": {
+      "$numberInt": "361"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763095023340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "tam-coc-riverside-nha-vuon-ben-nui-da-voi-8vm4vc",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d844"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "title": "Lantern House Hội An - Nhà cổ phố đèn lồng",
+    "description": "Ngôi nhà gỗ hơn trăm năm tuổi được trùng tu cẩn thận, giữ nguyên kết cấu kèo cột và giếng trời truyền thống. Nằm ngay trong khu phố cổ, buổi tối bạn chỉ cần bước ra cửa là hòa vào không gian đèn lồng lung linh bên sông Hoài. Sân sau trồng hoa giấy và có góc trà chiều yên tĩnh.",
+    "roomType": "entire",
+    "address": "45 Trần Phú",
+    "city": "Hội An",
+    "district": "Minh An",
+    "location": {
+      "lat": {
+        "$numberDouble": "15.8801"
+      },
+      "lng": {
+        "$numberDouble": "108.338"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1400000"
+    },
+    "cleaningFee": {
+      "$numberInt": "150000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1680000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "4"
+    },
+    "bedrooms": {
+      "$numberInt": "2"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "2"
+    },
+    "area": {
+      "$numberInt": "90"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "tv",
+      "hot_water",
+      "garden",
+      "breakfast"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200&q=80",
+      "https://images.unsplash.com/photo-1561501900-3701fa6a0864?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80"
+    ],
+    "rules": "Không hút thuốc. Nhẹ nhàng với đồ gỗ cổ. Không tổ chức tiệc.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "2"
+    },
+    "bookingCount": {
+      "$numberInt": "3"
+    },
+    "viewCount": {
+      "$numberInt": "678"
+    },
+    "blockedDates": [
+      {
+        "from": {
+          "$date": {
+            "$numberLong": "1794330000000"
+          }
+        },
+        "to": {
+          "$date": {
+            "$numberLong": "1794416400000"
+          }
+        },
+        "reason": "Gia đình sử dụng riêng",
+        "_id": {
+          "$oid": "6adc35ef5fefd90b4072d878"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763354223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "lantern-house-hoi-an-nha-co-pho-den-long-8a8owb",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d845"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "title": "Cẩm Thanh Villa - Biệt thự hồ bơi giữa rừng dừa",
+    "description": "Biệt thự bốn phòng ngủ với hồ bơi riêng, nằm giữa rặng dừa nước Cẩm Thanh yên bình. Không gian phù hợp cho gia đình đông người hoặc nhóm bạn muốn nghỉ dưỡng riêng tư. Buổi chiều có thể đi thuyền thúng len lỏi trong rừng dừa, buổi tối tổ chức tiệc nướng bên hồ bơi. Cách phố cổ 10 phút đi xe đạp.",
+    "roomType": "villa",
+    "address": "Thôn 2, xã Cẩm Thanh",
+    "city": "Hội An",
+    "district": "Cẩm Thanh",
+    "location": {
+      "lat": {
+        "$numberDouble": "15.8785"
+      },
+      "lng": {
+        "$numberDouble": "108.369"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "3200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "300000"
+    },
+    "weekendPrice": {
+      "$numberInt": "4160000"
+    },
+    "minNights": {
+      "$numberInt": "2"
+    },
+    "maxGuests": {
+      "$numberInt": "8"
+    },
+    "bedrooms": {
+      "$numberInt": "4"
+    },
+    "beds": {
+      "$numberInt": "5"
+    },
+    "bathrooms": {
+      "$numberInt": "4"
+    },
+    "area": {
+      "$numberInt": "250"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "parking",
+      "pool",
+      "tv",
+      "washer",
+      "bbq",
+      "garden",
+      "breakfast"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200&q=80",
+      "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?w=1200&q=80"
+    ],
+    "rules": "Trẻ em bơi phải có người lớn đi kèm. Không gây ồn sau 22:00.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "3"
+    },
+    "viewCount": {
+      "$numberInt": "716"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763613423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "cam-thanh-villa-biet-thu-ho-boi-giua-rung-dua-2npxvq",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d846"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "title": "Mỹ Khê Ocean View - Căn hộ sát biển",
+    "description": "Căn hộ hai phòng ngủ trên tầng 18 với ban công nhìn thẳng ra biển Mỹ Khê, một trong những bãi biển đẹp nhất hành tinh. Tòa nhà có hồ bơi vô cực trên sân thượng và phòng gym. Băng qua đường là tới bãi tắm, xung quanh nhiều quán hải sản tươi ngon với giá phải chăng.",
+    "roomType": "entire",
+    "address": "120 Võ Nguyên Giáp",
+    "city": "Đà Nẵng",
+    "district": "Sơn Trà",
+    "location": {
+      "lat": {
+        "$numberDouble": "16.061"
+      },
+      "lng": {
+        "$numberDouble": "108.247"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1150000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1380000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "4"
+    },
+    "bedrooms": {
+      "$numberInt": "2"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "65"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "tv",
+      "washer",
+      "pool",
+      "balcony",
+      "sea_view",
+      "parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80",
+      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80"
+    ],
+    "rules": "Không hút thuốc trong căn hộ. Đăng ký thông tin cư trú với lễ tân tòa nhà.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "4"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "3"
+    },
+    "viewCount": {
+      "$numberInt": "389"
+    },
+    "blockedDates": [
+      {
+        "from": {
+          "$date": {
+            "$numberLong": "1796230800000"
+          }
+        },
+        "to": {
+          "$date": {
+            "$numberLong": "1796490000000"
+          }
+        },
+        "reason": "Sơn sửa lại phòng",
+        "_id": {
+          "$oid": "6adc35ef5fefd90b4072d879"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1763872623340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "my-khe-ocean-view-can-ho-sat-bien-qmkrrh",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d847"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d834"
+    },
+    "title": "Sơn Trà Hideaway - Bungalow trên bán đảo",
+    "description": "Bungalow ẩn mình trên sườn bán đảo Sơn Trà, nơi bạn có thể nghe tiếng sóng vỗ và thỉnh thoảng bắt gặp đàn voọc chà vá chân nâu. Ban công riêng hướng biển là nơi lý tưởng để ngắm bình minh. Thích hợp cho các cặp đôi muốn tìm sự riêng tư giữa thiên nhiên.",
+    "roomType": "bungalow",
+    "address": "Đường Hoàng Sa, bán đảo Sơn Trà",
+    "city": "Đà Nẵng",
+    "district": "Sơn Trà",
+    "location": {
+      "lat": {
+        "$numberDouble": "16.1"
+      },
+      "lng": {
+        "$numberDouble": "108.277"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1600000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "2"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "1"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "42"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "balcony",
+      "sea_view",
+      "breakfast",
+      "parking",
+      "hot_water"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1200&q=80",
+      "https://images.unsplash.com/photo-1564078516393-cf04bd966897?w=1200&q=80",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=1200&q=80",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=80"
+    ],
+    "rules": "Không cho thú hoang ăn. Không mang thú cưng.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "1"
+    },
+    "viewCount": {
+      "$numberInt": "369"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764131823340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "son-tra-hideaway-bungalow-tren-ban-dao-wd7fk6",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d848"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "title": "Bãi Sau Seaside - Nhà nghỉ dưỡng gần biển",
+    "description": "Nhà ba phòng ngủ cách bãi Sau chỉ 100 mét, rất phù hợp cho nhóm bạn hoặc gia đình từ Sài Gòn xuống nghỉ cuối tuần. Sân thượng có khu nướng BBQ nhìn ra biển, bếp rộng để tự chế biến hải sản mua ở chợ Xóm Lưới. Có chỗ đậu ô tô miễn phí ngay trước nhà.",
+    "roomType": "entire",
+    "address": "68 Thùy Vân",
+    "city": "Vũng Tàu",
+    "district": "Phường Thắng Tam",
+    "location": {
+      "lat": {
+        "$numberDouble": "10.346"
+      },
+      "lng": {
+        "$numberDouble": "107.095"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1300000"
+    },
+    "cleaningFee": {
+      "$numberInt": "120000"
+    },
+    "weekendPrice": {
+      "$numberInt": "1630000"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "8"
+    },
+    "bedrooms": {
+      "$numberInt": "3"
+    },
+    "beds": {
+      "$numberInt": "5"
+    },
+    "bathrooms": {
+      "$numberInt": "3"
+    },
+    "area": {
+      "$numberInt": "140"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "parking",
+      "tv",
+      "bbq",
+      "sea_view",
+      "washer",
+      "pet"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=1200&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1200&q=80",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80"
+    ],
+    "rules": "Cho phép thú cưng nhỏ. Dọn dẹp khu BBQ sau khi sử dụng.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "5"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "3"
+    },
+    "viewCount": {
+      "$numberInt": "264"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764391023340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "bai-sau-seaside-nha-nghi-duong-gan-bien-dil0hn",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d849"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "title": "Ông Lang Pool Villa - Biệt thự sát biển Phú Quốc",
+    "description": "Biệt thự năm phòng ngủ với hồ bơi riêng và lối đi thẳng ra bãi Ông Lang hoang sơ. Mỗi phòng ngủ đều có phòng tắm riêng và cửa sổ lớn đón gió biển. Đội ngũ quản gia hỗ trợ đặt tour câu mực đêm, lặn ngắm san hô Hòn Thơm và chuẩn bị tiệc hải sản ngay tại sân vườn.",
+    "roomType": "villa",
+    "address": "Bãi Ông Lang, xã Cửa Dương",
+    "city": "Phú Quốc",
+    "district": "Cửa Dương",
+    "location": {
+      "lat": {
+        "$numberDouble": "10.27"
+      },
+      "lng": {
+        "$numberDouble": "103.93"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "4200000"
+    },
+    "cleaningFee": {
+      "$numberInt": "350000"
+    },
+    "weekendPrice": {
+      "$numberInt": "5040000"
+    },
+    "minNights": {
+      "$numberInt": "2"
+    },
+    "maxGuests": {
+      "$numberInt": "10"
+    },
+    "bedrooms": {
+      "$numberInt": "5"
+    },
+    "beds": {
+      "$numberInt": "6"
+    },
+    "bathrooms": {
+      "$numberInt": "5"
+    },
+    "area": {
+      "$numberInt": "320"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "kitchen",
+      "parking",
+      "pool",
+      "tv",
+      "washer",
+      "bbq",
+      "garden",
+      "sea_view",
+      "breakfast"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=80"
+    ],
+    "rules": "Không tổ chức sự kiện quá 20 người. Không gây ồn sau 23:00.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "4"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "2"
+    },
+    "viewCount": {
+      "$numberInt": "126"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764650223340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "ong-lang-pool-villa-biet-thu-sat-bien-phu-quoc-oqalef",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84a"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "title": "Dương Đông Sunset Bungalow",
+    "description": "Bungalow mái lá trong khuôn viên vườn nhiệt đới, đi bộ 2 phút là tới bãi Trường nổi tiếng với hoàng hôn rực rỡ. Hồ bơi chung rộng rãi, quầy bar bên biển phục vụ cocktail mỗi chiều. Gần chợ đêm Phú Quốc, thuận tiện khám phá ẩm thực địa phương.",
+    "roomType": "bungalow",
+    "address": "118 Trần Hưng Đạo",
+    "city": "Phú Quốc",
+    "district": "Dương Đông",
+    "location": {
+      "lat": {
+        "$numberDouble": "10.217"
+      },
+      "lng": {
+        "$numberDouble": "103.96"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "1350000"
+    },
+    "cleaningFee": {
+      "$numberInt": "100000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "3"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "2"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "38"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "pool",
+      "garden",
+      "breakfast",
+      "sea_view",
+      "hot_water"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1200&q=80",
+      "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80"
+    ],
+    "rules": "Không mang đồ ăn có mùi nặng như sầu riêng vào phòng.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "approved",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "4"
+    },
+    "ratingCount": {
+      "$numberInt": "1"
+    },
+    "bookingCount": {
+      "$numberInt": "1"
+    },
+    "viewCount": {
+      "$numberInt": "544"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1764909423340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "duong-dong-sunset-bungalow-dqd5ih",
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d84b"
+    },
+    "owner": {
+      "$oid": "6adc35ef5fefd90b4072d835"
+    },
+    "title": "Nha Trang Skyline Studio",
+    "description": "Studio hiện đại trên tầng cao nhìn ra vịnh Nha Trang, phù hợp cho cặp đôi hoặc khách công tác. Tòa nhà có hồ bơi tầng thượng và nằm ngay trên đường Trần Phú sầm uất. Đi bộ vài phút là tới bãi biển và các nhà hàng hải sản.",
+    "roomType": "private",
+    "address": "28 Trần Phú",
+    "city": "Nha Trang",
+    "district": "Lộc Thọ",
+    "location": {
+      "lat": {
+        "$numberDouble": "12.2388"
+      },
+      "lng": {
+        "$numberDouble": "109.1967"
+      }
+    },
+    "pricePerNight": {
+      "$numberInt": "750000"
+    },
+    "cleaningFee": {
+      "$numberInt": "60000"
+    },
+    "weekendPrice": {
+      "$numberInt": "0"
+    },
+    "minNights": {
+      "$numberInt": "1"
+    },
+    "maxGuests": {
+      "$numberInt": "2"
+    },
+    "bedrooms": {
+      "$numberInt": "1"
+    },
+    "beds": {
+      "$numberInt": "1"
+    },
+    "bathrooms": {
+      "$numberInt": "1"
+    },
+    "area": {
+      "$numberInt": "32"
+    },
+    "amenities": [
+      "wifi",
+      "ac",
+      "tv",
+      "pool",
+      "sea_view",
+      "hot_water"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+      "https://images.unsplash.com/photo-1561501900-3701fa6a0864?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=80"
+    ],
+    "rules": "Không hút thuốc. Không mang thú cưng.",
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "status": "pending",
+    "rejectReason": "",
+    "ratingAvg": {
+      "$numberInt": "0"
+    },
+    "ratingCount": {
+      "$numberInt": "0"
+    },
+    "bookingCount": {
+      "$numberInt": "0"
+    },
+    "viewCount": {
+      "$numberInt": "11"
+    },
+    "blockedDates": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791520623340"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792816623994"
+      }
+    },
+    "slug": "nha-trang-skyline-studio-o6c0m6",
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]

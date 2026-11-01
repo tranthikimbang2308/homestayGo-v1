@@ -1,0 +1,143 @@
+[
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8a8"
+    },
+    "name": "Lý Thị Hồng",
+    "email": "lyhong.travel@example.com",
+    "phone": "0905123456",
+    "subject": "Hỏi về thanh toán VNPay",
+    "message": "Chào HomestayGo, mình thanh toán qua VNPay nhưng tài khoản đã bị trừ tiền mà đơn vẫn hiện chưa thanh toán. Nhờ đội ngũ kiểm tra giúp mình với.",
+    "status": "new",
+    "reply": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792730223976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792730223976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8a9"
+    },
+    "name": "Trần Văn Nam",
+    "email": "namtran.host@example.com",
+    "phone": "0918765432",
+    "subject": "Muốn trở thành chủ phòng",
+    "message": "Tôi có một căn nhà vườn ở Bảo Lộc muốn đăng cho thuê trên HomestayGo. Xin hướng dẫn thủ tục và mức phí dành cho chủ phòng.",
+    "status": "new",
+    "reply": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792643823976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792643823976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8aa"
+    },
+    "name": "Nguyễn Thảo Vy",
+    "email": "thaovy.nguyen@example.com",
+    "phone": "",
+    "subject": "Góp ý giao diện",
+    "message": "Trang web dễ dùng, nhưng mình mong có thêm bộ lọc theo khoảng cách tới biển. Cảm ơn đội ngũ đã làm sản phẩm rất tốt.",
+    "status": "replied",
+    "reply": "Cảm ơn bạn Vy đã góp ý. Chúng tôi đã ghi nhận đề xuất bộ lọc theo khoảng cách và sẽ cân nhắc trong các bản cập nhật sắp tới.",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1792384623976"
+      }
+    },
+    "repliedBy": {
+      "$oid": "6adc35ef5fefd90b4072d832"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792298223976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792298223976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8ab"
+    },
+    "name": "Phan Đức Long",
+    "email": "longphan@example.com",
+    "phone": "0977000111",
+    "subject": "Hủy đơn và hoàn tiền",
+    "message": "Tôi đã hủy đơn đặt phòng trước 5 ngày, xin hỏi bao lâu thì tiền được hoàn về tài khoản ngân hàng?",
+    "status": "replied",
+    "reply": "Chào anh Long, với đơn hủy trước 3 ngày, tiền sẽ được hoàn trong vòng 5 đến 7 ngày làm việc tùy ngân hàng. Anh vui lòng kiểm tra lại và phản hồi nếu chưa nhận được nhé.",
+    "repliedAt": {
+      "$date": {
+        "$numberLong": "1792125423976"
+      }
+    },
+    "repliedBy": {
+      "$oid": "6adc35ef5fefd90b4072d832"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1792039023976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1792039023976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6adc35ef5fefd90b4072d8ac"
+    },
+    "name": "Đỗ Minh Châu",
+    "email": "chaudo@example.com",
+    "phone": "0932456789",
+    "subject": "Hợp tác truyền thông",
+    "message": "Bên mình là một kênh du lịch trên mạng xã hội, muốn hợp tác giới thiệu các homestay trên HomestayGo. Mong nhận được phản hồi.",
+    "status": "closed",
+    "reply": "",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1791520623976"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1791520623976"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]
